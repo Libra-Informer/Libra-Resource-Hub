@@ -26,13 +26,13 @@ Table of Contents
 * [Libra Developers' Blog](https://developers.libra.org/blog/) - The official blog of the Libra team.
 * [Libra Developers' Newsletter](https://developers.libra.org/newsletter_form) - Sign up for the official Libra developer's newsletter.
 * [Libra Developers' Twitter](https://twitter.com/LibraDev) - The Twitter account for the Libra's development team.
-* [
+* [Calibra]
 
 # Blockchain Explorers
 * [LibraBrowser](https://librabrowser.io/stats) - Libra block explorer by [Gal Diskin](https://twitter.com/gal_diskin). Github found [here](https://github.com/Disk1n/LibraBrowser).
 * [Libratics](http://libratics.com) - Libra block explorer by [ReturnValues](http://www.returnvalues.com/).
 * [LibraBlock](https://librablock.io/) - Libra block explorer by the [HashForests](http://www.hashforests.com/) team.
-* [LibraVista](http://libravista.com) - Libra block explorer by
+* [LibraVista](http://libravista.com) - Libra block explorer by Tong Gao.
 * [Libranaut](https://libranaut.io/) - Libra block explorer by Tspoon.
 
 # Open Source Wallets
