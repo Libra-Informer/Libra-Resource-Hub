@@ -4,8 +4,9 @@ A curated master list of useful resources for the Libra community.
 Table of Contents
 
 - [Documentation](#documentation)
-- [Open Source wallets](#open-source-wallets)
+- [Official Communications](#official-communications)
 - [Blockchain Explorers](#blockchain-explorers)
+- [Open Source wallets](#open-source-wallets)
 - [JavaScript Libraries](#javascript-libraries)
 - [Python Libraries](#python-libraries)
 - [Go Libraries](#go-libraries)
@@ -16,20 +17,27 @@ Table of Contents
 
 
 # Documentation
-* [Official Docs](https://developers.libra.org/docs/welcome-to-libra) - The official Libra developer's website.
+* [Official Docs](https://developers.libra.org/docs/welcome-to-libra) - The official Libra developer's website. Includes basic information, how to get started with Move, contribution guidelines, and more.
 * [Whitepaper](https://libra.org/en-US/white-paper/) - The official Libra white paper.
-* [Libra Blockchain Technical Paper] (https://developers.libra.org/docs/the-libra-blockchain-paper.html) - The official Libra blockchain technical paper.
+* [Libra Blockchain Technical Paper](https://developers.libra.org/docs/the-libra-blockchain-paper.html) - The official Libra blockchain technical paper.
 * [Move: A Language with Programmable Resources](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf) - The official technical paper introducing the Move language.
+
+# Official Communications
+* [Libra Developers' Blog](https://developers.libra.org/blog/) - The official blog of the Libra team.
+* [Libra Developers' Newsletter](https://developers.libra.org/newsletter_form) - Sign up for the official Libra developer's newsletter.
+* [Libra Developers' Twitter](https://twitter.com/LibraDev) - The Twitter account for the Libra's development team.
+* [
+
+# Blockchain Explorers
+* [LibraBrowser](https://librabrowser.io/stats) - Libra block explorer by [Gal Diskin](https://twitter.com/gal_diskin). Github found [here](https://github.com/Disk1n/LibraBrowser).
+* [Libratics](http://libratics.com) - Libra block explorer by [ReturnValues](http://www.returnvalues.com/).
+* [LibraBlock](https://librablock.io/) - Libra block explorer by the [HashForests](http://www.hashforests.com/) team.
+* [LibraVista](http://libravista.com) - Libra block explorer by
+* [Libranaut](https://libranaut.io/) - Libra block explorer by Tspoon.
 
 # Open Source Wallets
 * [Libra Wallet Poc](https://dev.kulap.io/libra/) - POC Libra wallet.
 * [libra wallet](https://github.com/dpikalov/libra-wallet) - Wallet frontend, don't have backend.
-
-# Blockchain Explorers
-* [librabrowser](https://librabrowser.io/?fbclid=IwAR1LjpGiLWwW3oIFHnM3dm6H47H6D2R0dRAsqjmCcJSNtpW7yCcJu1ud2hE) - Libra Testnet Explorer.
-* [libratics](http://libratics.com) - Libratics is a Libra Analytics (Testnet).
-* [libravista](http://libravista.com)
-
 
 # JavaScript Libraries
 * [libra-core](https://github.com/perfectmak/libra-core) - A javascript client for libra network.
@@ -59,10 +67,8 @@ Table of Contents
 * [Google Coin vs Facebook Libra](https://www.youtube.com/watch?v=uJzUkCKYPDw)
 
 # Community
-* [Official Community](https://community.libra.org/)
-* [Telegram: Libra Devs](https://t.me/joinchat/DAQb4RSNpqEok3p-QdmaKQ)
+* [Official Libra Community](https://community.libra.org/) - The official Libra community forum.
+* [Unofficial Libra Developer Discord](https://discord.gg/fq833s7) - The unofficial Libra developers' Discord group.
+* [Unofficial Libra Developer Telegram](https://t.me/joinchat/DAQb4RSNpqEok3p-QdmaKQ) - The unofficial Libra developers' Telegram.
 
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
