@@ -72,3 +72,6 @@ Table of Contents
 * [Unofficial Libra Developer Telegram](https://t.me/joinchat/DAQb4RSNpqEok3p-QdmaKQ) - The unofficial Libra developers' Telegram.
 
 
+
+
+There is no license at this time. Anyone who wishes to use this should contact me directly.
