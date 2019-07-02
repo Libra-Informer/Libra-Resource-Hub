@@ -16,9 +16,10 @@ Table of Contents
 
 
 # Documentation
-* [Official Docs](https://developers.libra.org/docs/welcome-to-libra) - Welcome to the Libra developer site.
-* [Whitepaper](https://libra.org/en-US/white-paper/)
-* [Move Language](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf)
+* [Official Docs](https://developers.libra.org/docs/welcome-to-libra) - The official Libra developer's website.
+* [Whitepaper](https://libra.org/en-US/white-paper/) - The official Libra white paper.
+* [Libra Blockchain Technical Paper] (https://developers.libra.org/docs/the-libra-blockchain-paper.html) - The official Libra blockchain technical paper.
+* [Move: A Language with Programmable Resources](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf) - The official technical paper introducing the Move language.
 
 # Open Source Wallets
 * [Libra Wallet Poc](https://dev.kulap.io/libra/) - POC Libra wallet.
