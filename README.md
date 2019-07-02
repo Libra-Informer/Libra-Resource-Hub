@@ -1,8 +1,7 @@
-![](awesome-libra.png)
-# Awesome Libra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A Curated List of Awesome Libra Resources
+# Libra Resource Hub
+A curated master list of useful resources for the Libra community.
 
-List of content
+Table of Contents
 
 - [Documentation](#documentation)
 - [Open Source wallets](#open-source-wallets)
