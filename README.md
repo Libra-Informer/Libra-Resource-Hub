@@ -57,9 +57,7 @@ Table of Contents
 * [chainide](https://chainide.com/) - It enables developers to efficiently utilise move.
 
 # Read
-* [Building your own Wallet and APIs](https://medium.com/kulapofficial/the-first-libra-wallet-poc-building-your-own-wallet-and-apis-3cb578c0bd52)
-* [Calibra wallet](https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/) - New Digital Wallet for a New Digital Currency, coming in 2020.
-* [Libra区块链钱包开发实录附源码 - LearnDapp系列](https://github.com/learndapp/LearnDapp/blob/master/topics/libra/01/libra-wallet.md)
+* 
 
 # Community
 * [Official Libra Community](https://community.libra.org/) - The official Libra community forum.
