@@ -1,7 +1,7 @@
 # Libra Resource Hub
 A curated master list of useful resources for the Libra community.
 
-Table of Contents
+**Table of Contents**
 
 - [Documentation](#documentation)
 - [Official Communications](#official-communications)
@@ -26,7 +26,7 @@ Table of Contents
 * [Libra Developers' Blog](https://developers.libra.org/blog/) - The official blog of the Libra team.
 * [Libra Developers' Twitter](https://twitter.com/LibraDev) - The Twitter account for the Libra's development team.
 * [Libra Newsletter](https://developers.libra.org/newsletter_form) - Sign up for the official Libra newsletter.
-* [Calibra's Newsletter](https://calibra.com/#newsletter) - Sign up to follow Calibra's development.
+* [Calibra Newsletter](https://calibra.com/#newsletter) - Sign up to follow Calibra's development.
 
 # Blockchain Explorers
 * [LibraBrowser](https://librabrowser.io/stats) - Libra block explorer by [Gal Diskin](https://twitter.com/gal_diskin). Github found [here](https://github.com/Disk1n/LibraBrowser).
@@ -34,6 +34,7 @@ Table of Contents
 * [LibraBlock](https://librablock.io/) - Libra block explorer by the [HashForests](http://www.hashforests.com/) team.
 * [LibraVista](http://libravista.com) - Libra block explorer by Tong Gao.
 * [Libranaut](https://libranaut.io/) - Libra block explorer by Tspoon.
+* [Libraview](http://libraview.org/) - Libra block explorer by Roman Sanchuk.
 
 # Open Source Wallets
 * [Kulap's Wallet PoC](https://github.com/dpikalov/libra-wallet) - Proof of Concept Libra wallet by [Kulap](https://www.kulap.io/). Basic web version can be seen [here](https://dev.kulap.io/libra/#/).
@@ -57,7 +58,7 @@ Table of Contents
 * [chainide](https://chainide.com/) - It enables developers to efficiently utilise move.
 
 # Read
-* 
+* [*The Libra Informer*](https://librainformer.substack.com/) - An unofficial newsletter for the Libra community. Created the Libra Resource Hub.
 
 # Community
 * [Official Libra Community](https://community.libra.org/) - The official Libra community forum.
