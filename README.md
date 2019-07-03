@@ -68,9 +68,5 @@ Table of Contents
 * [Unofficial Libra Korea Discord](https://discord.gg/fsHrQGU) - The unofficial Libra Korean-language discord group.
 * [Unofficial Libra Russia Community](https://libratalk.ru/) - The unofficial Libra Russian-language forum.
 
-# Groups
-* [Libra China](
-* [Libra Korea](
-
 
 There is no license at this time. Anyone who wishes to use this should contact me directly.
