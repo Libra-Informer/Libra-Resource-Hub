@@ -11,7 +11,7 @@ A curated master list of useful resources for the Libra community.
 - [Python Libraries](#python-libraries)
 - [Go Libraries](#go-libraries)
 - [Playgrounds](#playgrounds)
-- [Read](#read)
+- [Suggested Reading](#read)
 - [Community](#community)
 
 
@@ -57,8 +57,12 @@ A curated master list of useful resources for the Libra community.
 * [libraide](https://libraide.com/) - Libra Move contract editor.
 * [chainide](https://chainide.com/) - It enables developers to efficiently utilise move.
 
-# Read
+# Suggested Reading
 * [*The Libra Informer*](https://librainformer.substack.com/) - An unofficial newsletter for the Libra community. Created the Libra Resource Hub.
+* [*The Denationalization of Money: The Argument Refined*](https://nakamotoinstitute.org/static/docs/denationalisation.pdf) - The updated verison of Friedrich Hayek's 1976 book where he argues for the establishment of competitively-issued private currencies.
+* [*Money in the digital age: what role for central banks?*](https://www.bis.org/speeches/sp180206.pdf) - A 2018 speech given by Agustín Carstens, General Manager of the Bank for International Settlements, reflecting on the history of privately issued currencies, how should cryptocurrencies be treated, and what should central banks do in this new age of money.
+* [*Big tech in finance: opportunities and risks*](https://www.bis.org/speeches/sp190630b.pdf) - A 2019 speech by Hyun Song Shin, Economic Adviser and Head of Research at the Bank for International Settlements, where he analyzes the recent trend of the tech sector breaking into finance.
+* [*The Future of Offshore Dollar Creation: Four Scenarios for the International Monetary System by 2040*](http://publications.iass-potsdam.de/pubman/item/escidoc:3259916:5/component/escidoc:3302891/IASS_Discussion_Paper_3259916_.pdf) - A very interesting analysis of the possible evolutions of the international monetary system assuming a systemic crisis were to occur.
 
 # Community
 * [Official Libra Community](https://community.libra.org/) - The official Libra community forum.
@@ -69,3 +73,5 @@ A curated master list of useful resources for the Libra community.
 
 
 There is no license at this time. Anyone who wishes to use this should contact me directly.
+
+Any suggestions for additions/corrections can be submitted, preferably to the editor via email at geheimnis086@gmail.com. Final inclusion is at the discretion of the editor. The editor my alter the language of submissions for the purpose of providing clarity.
