@@ -10,8 +10,8 @@ A curated master list of useful resources for the Libra community.
 - [JavaScript Libraries](#javascript-libraries)
 - [Python Libraries](#python-libraries)
 - [Go Libraries](#go-libraries)
-- [Playgrounds](#playgrounds)
-- [Suggested Reading](#read)
+- [Integrated Development Environments](#integrated-development-environments)
+- [Suggested Reading](#suggested-reading)
 - [Community](#community)
 
 
@@ -40,22 +40,21 @@ A curated master list of useful resources for the Libra community.
 * [Kulap's Wallet PoC](https://github.com/dpikalov/libra-wallet) - Proof of Concept Libra wallet by [Kulap](https://www.kulap.io/). Basic web version can be seen [here](https://dev.kulap.io/libra/#/).
 * [ZenGo's Wallet PoC](https://github.com/KZen-networks/libra) - Proof of Concept Libra wallet by [ZenGo](https://zengo.com/).
 
+# Go Libraries
+* [Libra Go Client](https://github.com/codemaveric/libra-go) - A Go Client for interacting with the Libra blockchain by [codemaveric](https://github.com/codemaveric/).
+* [Libra SDK for Go](https://github.com/philippgille/libra-sdk-go) - A Go SDK for the Libra blockchain by [philippgille](https://github.com/philippgille/).
+* [Libra SDK for Go](https://github.com/phlip9/libra_example) - A Go SDK for the Libra blockchain by [phlip9](https://github.com/phlip9).
+
 # JavaScript Libraries
-* [libra-core](https://github.com/perfectmak/libra-core) - A javascript client for libra network.
-* [libra-api](https://github.com/bonustrack/libra-api) - A REST API for Libra blockchain.
-* [libra-grpc](https://github.com/bonustrack/libra-grpc) - A lightweight JavaScript library for Libra.
+* [Libra JS Client](https://github.com/perfectmak/libra-core) - A JavaScript Client for interacting with the Libra blockchain by [perfectmak](https://github.com/perfectmak/).
+* [Libra JS API](https://github.com/bonustrack/libra-api) - A JavaScript REST API for the Libra blockchain by [bonustrack](https://github.com/bonustrack).
+* [Libra JS gRPC](https://github.com/bonustrack/libra-grpc) - A lightweight JavaScript library for the Libra blockchain by [bonustrack](https://github.com/bonustrack).
 
 # Python Libraries
-* [libra-grpc-py](https://github.com/egorsmkv/libra-grpc-py) - gRPC client for Libra in Python.
+* [Libra Py gRPC](https://github.com/egorsmkv/libra-grpc-py) - A gRPC client for Libra in Python by [egorsmkv](https://github.com/egorsmkv/).
 
-# Go Libraries
-* [Libra Golang Client](https://github.com/codemaveric/libra-go) - Go Client for interacting with Libra Blockchain.
-* [Libra SDK for Go](https://github.com/philippgille/libra-sdk-go) - Go SDK for Libra.
-* [libra_example](https://github.com/phlip9/libra_example) - Example Libra Go client SDK.
-
-# Playgrounds
-* [libraide](https://libraide.com/) - Libra Move contract editor.
-* [chainide](https://chainide.com/) - It enables developers to efficiently utilise move.
+# Integrated Development Environments
+* [Libraide](https://libraide.com/) - A cloud-hosted MoveIR code editor, compiles to bytecode that you can download. Made by [WhiteMatrix](https://twitter.com/matrix_white).
 
 # Suggested Reading
 * [*The Libra Informer*](https://librainformer.substack.com/) - An unofficial newsletter for the Libra community. Created the Libra Resource Hub.
@@ -68,6 +67,8 @@ A curated master list of useful resources for the Libra community.
 * [Official Libra Community](https://community.libra.org/) - The official Libra community forum.
 * [Unofficial Libra Developer Discord](https://discord.gg/fq833s7) - The unofficial Libra developers' Discord group.
 * [Unofficial Libra Developer Telegram](https://t.me/joinchat/DAQb4RSNpqEok3p-QdmaKQ) - The unofficial Libra developers' Telegram.
+
+* [Unofficial Libra China Community](https://community.libra-china.org/) - The unofficial Libra Chinese-language forum.
 * [Unofficial Libra Korea Discord](https://discord.gg/fsHrQGU) - The unofficial Libra Korean-language discord group.
 * [Unofficial Libra Russia Community](https://libratalk.ru/) - The unofficial Libra Russian-language forum.
 
