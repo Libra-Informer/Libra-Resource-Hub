@@ -35,7 +35,7 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 * [Calibra Newsletter](https://calibra.com/#newsletter) - Sign up to follow Calibra's development.
 
 # Blockchain Explorers
-* [LibraBlock](https://librablock.io/) - Libra block explorer by the [HashForests](http://www.hashforests.com/) team.
+* [LibraBlock](https://librablock.io/) - Libra block explorer by the [LibraChina](https://libra-china.org/)/[HashForests](http://www.hashforests.com/) team.
 * [LibraBrowser](https://librabrowser.io/stats) - Libra block explorer by [Gal Diskin](https://twitter.com/gal_diskin). Github found [here](https://github.com/Disk1n/LibraBrowser).
 * [Libranaut](https://libranaut.io/) - Libra block explorer by Tspoon.
 * [Libratics](http://libratics.com) - Libra block explorer by [ReturnValues](http://www.returnvalues.com/).
