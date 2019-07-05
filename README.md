@@ -1,5 +1,7 @@
 # Libra Resource Hub
-A curated master list of useful resources for the Libra community.
+An actively curated master list of useful resources for the Libra community.
+
+Brought to you by the creator of [*The Libra Informer*](https://librainformer.substack.com/), an unofficial newsletter for the Libra community. If you like it and/or this list, please subscribe and promote *The Libra Informer*! 
 
 **Table of Contents**
 
@@ -7,10 +9,12 @@ A curated master list of useful resources for the Libra community.
 - [Official Communications](#official-communications)
 - [Blockchain Explorers](#blockchain-explorers)
 - [Open Source Wallets](#open-source-wallets)
+- [Move](#move)
 - [JavaScript Libraries](#javascript-libraries)
 - [Python Libraries](#python-libraries)
 - [Go Libraries](#go-libraries)
 - [Integrated Development Environments](#integrated-development-environments)
+- [Developer Tools](#developer-tools)
 - [Suggested Reading](#suggested-reading)
 - [Community](#community)
 
@@ -29,16 +33,19 @@ A curated master list of useful resources for the Libra community.
 * [Calibra Newsletter](https://calibra.com/#newsletter) - Sign up to follow Calibra's development.
 
 # Blockchain Explorers
-* [LibraBrowser](https://librabrowser.io/stats) - Libra block explorer by [Gal Diskin](https://twitter.com/gal_diskin). Github found [here](https://github.com/Disk1n/LibraBrowser).
-* [Libratics](http://libratics.com) - Libra block explorer by [ReturnValues](http://www.returnvalues.com/).
 * [LibraBlock](https://librablock.io/) - Libra block explorer by the [HashForests](http://www.hashforests.com/) team.
-* [LibraVista](http://libravista.com) - Libra block explorer by Tong Gao.
+* [LibraBrowser](https://librabrowser.io/stats) - Libra block explorer by [Gal Diskin](https://twitter.com/gal_diskin). Github found [here](https://github.com/Disk1n/LibraBrowser).
 * [Libranaut](https://libranaut.io/) - Libra block explorer by Tspoon.
-* [Libraview](http://libraview.org/) - Libra block explorer by Roman Sanchuk.
+* [Libratics](http://libratics.com) - Libra block explorer by [ReturnValues](http://www.returnvalues.com/).
+* [Libraview](http://libraview.org/) - Libra block explorer by the Dappincome team.
+* [LibraVista](http://libravista.com) - Libra block explorer by [TokenClub](https://tokenclub.com/).
 
 # Open Source Wallets
 * [Kulap's Wallet PoC](https://github.com/dpikalov/libra-wallet) - Proof of Concept Libra wallet by [Kulap](https://www.kulap.io/). Basic web version can be seen [here](https://dev.kulap.io/libra/#/).
 * [ZenGo's Wallet PoC](https://github.com/KZen-networks/libra) - Proof of Concept Libra wallet by [ZenGo](https://zengo.com/).
+
+# Move
+*  [eToken Libra](https://github.com/etoroxlabs/etoken-libra) - An example of implementing tokenized assets with mMveIR by [eToroX Labs](https://github.com/etoroxlabs).
 
 # Go Libraries
 * [Libra Go Client](https://github.com/codemaveric/libra-go) - A Go Client for interacting with the Libra blockchain by [codemaveric](https://github.com/codemaveric/).
@@ -46,18 +53,24 @@ A curated master list of useful resources for the Libra community.
 * [Libra SDK for Go](https://github.com/phlip9/libra_example) - A Go SDK for the Libra blockchain by [phlip9](https://github.com/phlip9).
 
 # JavaScript Libraries
-* [Libra JS Client](https://github.com/perfectmak/libra-core) - A JavaScript Client for interacting with the Libra blockchain by [perfectmak](https://github.com/perfectmak/).
+* [Libra JS Client](https://github.com/perfectmak/libra-core) - A JavaScript client for the Libra blockchain by [perfectmak](https://github.com/perfectmak/).
+* [jlibra](https://github.com/ketola/jlibra) - A JavaScript client for the Libra blockchain by [ketola](https://github.com/ketola).
 * [Libra JS API](https://github.com/bonustrack/libra-api) - A JavaScript REST API for the Libra blockchain by [bonustrack](https://github.com/bonustrack).
 * [Libra JS gRPC](https://github.com/bonustrack/libra-grpc) - A lightweight JavaScript library for the Libra blockchain by [bonustrack](https://github.com/bonustrack).
 
 # Python Libraries
-* [Libra Py gRPC](https://github.com/egorsmkv/libra-grpc-py) - A gRPC client for Libra in Python by [egorsmkv](https://github.com/egorsmkv/).
+* [PyLibra](https://github.com/bandprotocol/pylibra) - A Python Libra client for the Libra blockchain  by [Band Protocol](https://github.com/bandprotocol).
+* [Libra Py gRPC](https://github.com/egorsmkv/libra-grpc-py) - A gRPC client for the Libra blockchain in Python by [egorsmkv](https://github.com/egorsmkv/).
 
 # Integrated Development Environments
 * [Libraide](https://libraide.com/) - A cloud-hosted MoveIR code editor, compiles to bytecode that you can download. Made by [WhiteMatrix](https://twitter.com/matrix_white).
 
+# Developer Tools
+* [Libra Move Language VSCode](https://github.com/sdkbox/vscode-libra-move/) - Libra Move language (syntax highlighting, snippets) for Visual Studio Code by [SDKBox](https://www.sdkbox.com/).
+* [LibraVM Move Decompiler plugins for JEB](https://github.com/pnfsoftware/jeb-plugin-libra) - An open-source decompiler for Libra smart contracts using JEB Decompiler made by PNF Software.
+
 # Suggested Reading
-* [*The Libra Informer*](https://librainformer.substack.com/) - An unofficial newsletter for the Libra community. Created the Libra Resource Hub.
+* [*Libra Compendium*](https://libracompendium.com/) - Still unsure what the Libra is? The *Libra Compendium* is an overview report of the Libra for professionals. Written by Xavier Lavayssière, an independent researcher on blockchain and regulation. The report is currently in its first version, and will be updated in the coming months as the Libra project evolves. Currently available in English and French.
 * [*The Denationalization of Money: The Argument Refined*](https://nakamotoinstitute.org/static/docs/denationalisation.pdf) - The updated verison of Friedrich Hayek's 1976 book where he argues for the establishment of competitively-issued private currencies.
 * [*Money in the digital age: what role for central banks?*](https://www.bis.org/speeches/sp180206.pdf) - A 2018 speech given by Agustín Carstens, General Manager of the Bank for International Settlements, reflecting on the history of privately issued currencies, how should cryptocurrencies be treated, and what should central banks do in this new age of money.
 * [*Big tech in finance: opportunities and risks*](https://www.bis.org/speeches/sp190630b.pdf) - A 2019 speech by Hyun Song Shin, Economic Adviser and Head of Research at the Bank for International Settlements, where he analyzes the recent trend of the tech sector breaking into finance.
