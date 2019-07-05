@@ -1,6 +1,8 @@
 # Libra Resource Hub
 An actively curated master list of useful resources for the Libra community. Based on the [Awesome libra](https://github.com/learndapp/awesome-libra) list by [learndapp](https://github.com/learndapp).
 
+A special thanks to Libra community member [CasalettoJ](https://github.com/CasalettoJ)/CircuitDev for his technical advice in composing this list.
+
 Brought to you by the creator of [*The Libra Informer*](https://librainformer.substack.com/), an unofficial newsletter for the Libra community.
 
 If you like it and/or this list, please subscribe and promote *The Libra Informer*! 
