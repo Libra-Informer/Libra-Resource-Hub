@@ -68,7 +68,7 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 * [Libraide](https://libraide.com/) - A cloud-hosted MoveIR code editor, compiles to bytecode that you can download. Made by [WhiteMatrix](https://twitter.com/matrix_white).
 
 # Developer Tools
-* [Libra Move Language VSCode](https://github.com/sdkbox/vscode-libra-move/) - Libra Move language (syntax highlighting, snippets) for Visual Studio Code by [SDKBox](https://www.sdkbox.com/).
+* [Libra Move Language VSCode](https://github.com/sdkbox/vscode-libra-move/) - Move language (syntax highlighting, snippets) for Visual Studio Code by [SDKBox](https://www.sdkbox.com/).
 * [LibraVM Move Decompiler plugins for JEB](https://github.com/pnfsoftware/jeb-plugin-libra) - An open-source decompiler for Libra smart contracts using JEB Decompiler made by PNF Software.
 
 # Suggested Reading
