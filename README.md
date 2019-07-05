@@ -1,7 +1,9 @@
 # Libra Resource Hub
-An actively curated master list of useful resources for the Libra community.
+An actively curated master list of useful resources for the Libra community. Based on the [Awesome libra](https://github.com/learndapp/awesome-libra) list by [learndapp](https://github.com/learndapp).
 
-Brought to you by the creator of [*The Libra Informer*](https://librainformer.substack.com/), an unofficial newsletter for the Libra community. If you like it and/or this list, please subscribe and promote *The Libra Informer*! 
+Brought to you by the creator of [*The Libra Informer*](https://librainformer.substack.com/), an unofficial newsletter for the Libra community.
+
+If you like it and/or this list, please subscribe and promote *The Libra Informer*! 
 
 **Table of Contents**
 
@@ -78,14 +80,13 @@ Brought to you by the creator of [*The Libra Informer*](https://librainformer.su
 
 # Community
 * [Official Libra Community](https://community.libra.org/) - The official Libra community forum.
-* [Unofficial Libra Developer Discord](https://discord.gg/fq833s7) - The unofficial Libra developers' Discord group.
+* [Unofficial Libra Developer Discord](https://discord.gg/fq833s7) - The unofficial Libra developers' Discord group. Active group, Calibra developers are sometimes around.
 * [Unofficial Libra Developer Telegram](https://t.me/joinchat/DAQb4RSNpqEok3p-QdmaKQ) - The unofficial Libra developers' Telegram.
-
 * [Unofficial Libra China Community](https://community.libra-china.org/) - The unofficial Libra Chinese-language forum.
 * [Unofficial Libra Korea Discord](https://discord.gg/fsHrQGU) - The unofficial Libra Korean-language discord group.
 * [Unofficial Libra Russia Community](https://libratalk.ru/) - The unofficial Libra Russian-language forum.
 
 
-There is no license at this time. Anyone who wishes to use this should contact me directly.
+There is no license on this list at this time. Anyone who wishes to fork this list is free to do so.
 
-Any suggestions for additions/corrections can be submitted, preferably to the editor via email at geheimnis086@gmail.com. Final inclusion is at the discretion of the editor. The editor my alter the language of submissions for the purpose of providing clarity.
+Any suggestions for additions/corrections can be submitted, preferably to the editor via email at geheimnis086@gmail.com. Final inclusion is at the discretion of the editor. The editor may alter the language of submissions at his discretion for the purpose of providing clarity.
