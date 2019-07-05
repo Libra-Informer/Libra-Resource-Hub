@@ -87,6 +87,6 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 * [Unofficial Libra Russia Community](https://libratalk.ru/) - The unofficial Libra Russian-language forum.
 
 
-There is no license on this list at this time. Anyone who wishes to fork this list is free to do so.
+Anyone who wishes to fork this list is free to do so.
 
 Any suggestions for additions/corrections can be submitted, preferably to the editor via email at geheimnis086@gmail.com. Final inclusion is at the discretion of the editor. The editor may alter the language of submissions at his discretion for the purpose of providing clarity.
