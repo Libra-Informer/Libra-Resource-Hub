@@ -14,9 +14,10 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 - [Blockchain Explorers](#blockchain-explorers)
 - [Open Source Wallets](#open-source-wallets)
 - [Move](#move)
+- [Go Libraries](#go-libraries)
+- [Java Libraries](java-libraries)
 - [JavaScript Libraries](#javascript-libraries)
 - [Python Libraries](#python-libraries)
-- [Go Libraries](#go-libraries)
 - [Integrated Development Environments](#integrated-development-environments)
 - [Developer Tools](#developer-tools)
 - [Suggested Reading](#suggested-reading)
@@ -56,9 +57,11 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 * [Libra SDK for Go](https://github.com/philippgille/libra-sdk-go) - A Go SDK for the Libra blockchain by [philippgille](https://github.com/philippgille/).
 * [Libra SDK for Go](https://github.com/phlip9/libra_example) - A Go SDK for the Libra blockchain by [phlip9](https://github.com/phlip9).
 
+# Java Libraries
+* [jlibra](https://github.com/ketola/jlibra) - A Java client for the Libra blockchain by [ketola](https://github.com/ketola).
+
 # JavaScript Libraries
 * [Libra JS Client](https://github.com/perfectmak/libra-core) - A JavaScript client for the Libra blockchain by [perfectmak](https://github.com/perfectmak/).
-* [jlibra](https://github.com/ketola/jlibra) - A JavaScript client for the Libra blockchain by [ketola](https://github.com/ketola).
 * [Libra JS API](https://github.com/bonustrack/libra-api) - A JavaScript REST API for the Libra blockchain by [bonustrack](https://github.com/bonustrack).
 * [Libra JS gRPC](https://github.com/bonustrack/libra-grpc) - A lightweight JavaScript library for the Libra blockchain by [bonustrack](https://github.com/bonustrack).
 
