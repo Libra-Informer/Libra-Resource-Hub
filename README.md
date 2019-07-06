@@ -71,7 +71,7 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 
 # Developer Tools
 * [Libra Move Language VSCode](https://github.com/sdkbox/vscode-libra-move/) - Move language (syntax highlighting, snippets) for Visual Studio Code by [SDKBox](https://www.sdkbox.com/).
-* [LibraVM Move Decompiler plugins for JEB](https://github.com/pnfsoftware/jeb-plugin-libra) - An open-source decompiler for Libra smart contracts using JEB Decompiler made by PNF Software.
+* [LibraVM Move Decompiler plugins for JEB](https://github.com/pnfsoftware/jeb-plugin-libra) - An open-source decompiler for Libra smart contracts using JEB Decompiler made by [PNF Software](https://www.pnfsoftware.com/).
 
 # Suggested Reading
 * [*Libra Compendium*](https://libracompendium.com/) - Still unsure what the Libra is? The *Libra Compendium* is an overview report of the Libra for professionals. Written by Xavier Lavayssière, an independent researcher on blockchain and regulation. The report is currently in its first version, and will be updated in the coming months as the Libra project evolves. Currently available in English and French.
