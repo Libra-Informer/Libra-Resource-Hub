@@ -50,7 +50,7 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 * [ZenGo's Wallet PoC](https://github.com/KZen-networks/libra) - Proof of Concept Libra wallet by [ZenGo](https://zengo.com/).
 
 # Move
-*  [eToken Libra](https://github.com/etoroxlabs/etoken-libra) - An example of implementing tokenized assets with mMveIR by [eToroX Labs](https://github.com/etoroxlabs).
+*  [eToken Libra](https://github.com/etoroxlabs/etoken-libra) - An example of implementing tokenized assets with MoveIR by [eToroX Labs](https://github.com/etoroxlabs).
 
 # Go Libraries
 * [Libra Go Client](https://github.com/codemaveric/libra-go) - A Go Client for interacting with the Libra blockchain by [codemaveric](https://github.com/codemaveric/).
