@@ -39,6 +39,7 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 
 # Blockchain Explorers
 * [LibraBlock](https://librablock.io/) - Libra block explorer by the [LibraChina](https://libra-china.org/)/[HashForests](http://www.hashforests.com/) team.
+* [LibraBlock.vn](https://librablock.vn/) - Libra block explorer aimed towards the Vietnamese community by sirquy.
 * [LibraBrowser](https://librabrowser.io/stats) - Libra block explorer by [Gal Diskin](https://twitter.com/gal_diskin). Github found [here](https://github.com/Disk1n/LibraBrowser).
 * [Libranaut](https://libranaut.io/) - Libra block explorer by Tspoon.
 * [Libratics](http://libratics.com) - Libra block explorer by [ReturnValues](http://www.returnvalues.com/).
@@ -53,7 +54,8 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 *  [eToken Libra](https://github.com/etoroxlabs/etoken-libra) - An example of implementing tokenized assets with MoveIR by [eToroX Labs](https://github.com/etoroxlabs).
 
 # Go Libraries
-* [Libra Go Client](https://github.com/codemaveric/libra-go) - A Go Client for interacting with the Libra blockchain by [codemaveric](https://github.com/codemaveric/).
+* [Libra Go Client](https://github.com/codemaveric/libra-go) - A Go client for interacting with the Libra blockchain by [codemaveric](https://github.com/codemaveric/).
+* [go-libra](https://github.com/the729/go-libra) - A Go client for interacting with the Libra blockchain by [the729](https://github.com/the729/).
 * [Libra SDK for Go](https://github.com/philippgille/libra-sdk-go) - A Go SDK for the Libra blockchain by [philippgille](https://github.com/philippgille/).
 * [Libra SDK for Go](https://github.com/phlip9/libra_example) - A Go SDK for the Libra blockchain by [phlip9](https://github.com/phlip9).
 
