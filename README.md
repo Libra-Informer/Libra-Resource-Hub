@@ -38,9 +38,11 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 * [Calibra Newsletter](https://calibra.com/#newsletter) - Sign up to follow Calibra's development.
 
 # Blockchain Explorers
+* [GoCypher](https://www.gocypher.com/gocypher/) - Libra block explorer by the [GoCypher](https://gocypher.com/gocypher/) team.
+* [Libexplorer](https://libexplorer.com/) - Libra block explorer by the Libexplorer team.
 * [LibraBlock](https://librablock.io/) - Libra block explorer by the [LibraChina](https://libra-china.org/)/[HashForests](http://www.hashforests.com/) team.
 * [LibraBlock.vn](https://librablock.vn/) - Libra block explorer aimed towards the Vietnamese community by sirquy.
-* [LibraBrowser](https://librabrowser.io/stats) - Libra block explorer by [Gal Diskin](https://twitter.com/gal_diskin). Github found [here](https://github.com/Disk1n/LibraBrowser).
+* [LibraBrowser](https://librabrowser.io/stats) - Libra block explorer by [Gal Diskin](https://twitter.com/gal_diskin). Github can be found [here](https://github.com/Disk1n/LibraBrowser).
 * [Libranaut](https://libranaut.io/) - Libra block explorer by Tspoon.
 * [Libratics](http://libratics.com) - Libra block explorer by [ReturnValues](http://www.returnvalues.com/).
 * [Libraview](http://libraview.org/) - Libra block explorer by the Dappincome team.
