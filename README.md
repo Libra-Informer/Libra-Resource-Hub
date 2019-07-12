@@ -14,6 +14,7 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 - [Blockchain Explorers](#blockchain-explorers)
 - [Open Source Wallets](#open-source-wallets)
 - [Move](#move)
+- [C# Libraries](c#-libraries)
 - [Go Libraries](#go-libraries)
 - [Java Libraries](java-libraries)
 - [JavaScript Libraries](#javascript-libraries)
@@ -55,6 +56,9 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 # Move
 *  [eToken Libra](https://github.com/etoroxlabs/etoken-libra) - An example of implementing tokenized assets with MoveIR by [eToroX Labs](https://github.com/etoroxlabs).
 
+# C# Libraries
+* [C# SDK for Libra](https://github.com/Rio-dapp/libra-csharp-sdk) - a C# SDK for the Libra blockchain by [Rio-dapp](https://github.com/Rio-dapp).
+
 # Go Libraries
 * [Libra Go Client](https://github.com/codemaveric/libra-go) - A Go client for interacting with the Libra blockchain by [codemaveric](https://github.com/codemaveric/).
 * [go-libra](https://github.com/the729/go-libra) - A Go client for interacting with the Libra blockchain by [the729](https://github.com/the729/).
@@ -63,6 +67,7 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 
 # Java Libraries
 * [jlibra](https://github.com/ketola/jlibra) - A Java client for the Libra blockchain by [ketola](https://github.com/ketola).
+* [Libraj](https://github.com/libra-vista/libraj) - A Java client for the Libra blockchain by [wenshenjun](https://github.com/wenshenjun).
 
 # JavaScript Libraries
 * [Libra JS Client](https://github.com/perfectmak/libra-core) - A JavaScript client for the Libra blockchain by [perfectmak](https://github.com/perfectmak/).
