@@ -40,6 +40,7 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 
 # Blockchain Explorers
 * [GoCypher](https://www.gocypher.com/gocypher/) - Libra block explorer by the [GoCypher](https://gocypher.com/gocypher/) team.
+* [Hilibra](http://www.hilibra.org/) - Libra block explorer by the Hilibra team.
 * [Libexplorer](https://libexplorer.com/) - Libra block explorer by the Libexplorer team.
 * [LibraBlock](https://librablock.io/) - Libra block explorer by the [LibraChina](https://libra-china.org/)/[HashForests](http://www.hashforests.com/) team.
 * [LibraBlock.vn](https://librablock.vn/) - Libra block explorer aimed towards the Vietnamese community by sirquy.
@@ -70,7 +71,7 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 * [Libraj](https://github.com/libra-vista/libraj) - A Java client for the Libra blockchain by [wenshenjun](https://github.com/wenshenjun).
 
 # JavaScript Libraries
-* [Libra JS Client](https://github.com/perfectmak/libra-core) - A JavaScript client for the Libra blockchain by [perfectmak](https://github.com/perfectmak/).
+* [Libra Core](https://github.com/perfectmak/libra-core) - A JavaScript client for the Libra blockchain by [perfectmak](https://github.com/perfectmak/).
 * [Libra JS API](https://github.com/bonustrack/libra-api) - A JavaScript REST API for the Libra blockchain by [bonustrack](https://github.com/bonustrack).
 * [Libra JS gRPC](https://github.com/bonustrack/libra-grpc) - A lightweight JavaScript library for the Libra blockchain by [bonustrack](https://github.com/bonustrack).
 
