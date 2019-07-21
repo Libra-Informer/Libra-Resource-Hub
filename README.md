@@ -47,7 +47,7 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 * [LibraBrowser](https://librabrowser.io/stats) - Libra block explorer by [Gal Diskin](https://twitter.com/gal_diskin). Github can be found [here](https://github.com/Disk1n/LibraBrowser).
 * [Libranaut](https://libranaut.io/) - Libra block explorer by Tspoon.
 * [Libratics](http://libratics.com) - Libra block explorer by [ReturnValues](http://www.returnvalues.com/).
-* [Libraview](http://libraview.org/) - Libra block explorer by the Dappincome team.
+* [LibraView](http://libraview.org/) - Libra block explorer by the Dappincome team.
 * [LibraVista](http://libravista.com) - Libra block explorer by [TokenClub](https://tokenclub.com/).
 
 # Open Source Wallets
