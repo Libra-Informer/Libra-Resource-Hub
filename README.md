@@ -68,6 +68,8 @@ If you like it and/or this list, please subscribe and promote *The Libra Informe
 
 # Java Libraries
 * [jlibra](https://github.com/ketola/jlibra) - A Java client for the Libra blockchain by [ketola](https://github.com/ketola).
+* [jlibra-spring-boot-starter](https://github.com/ice09/jlibra-spring-boot-starter) - Spring Boot Starter project based on jlibra.
+* [java-libra-client](https://github.com/ice09/java-libra-client) - Java Shell for Libra based on jlibra-spring-boot-starter and jlibra. 
 * [Libraj](https://github.com/libra-vista/libraj) - A Java client for the Libra blockchain by [wenshenjun](https://github.com/wenshenjun).
 
 # JavaScript Libraries
